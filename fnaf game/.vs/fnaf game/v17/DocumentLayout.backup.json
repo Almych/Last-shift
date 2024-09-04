@@ -1,0 +1,182 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repositories\\fnaf game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|c:\\repositories\\fnaf game\\assets\\scripts\\iteminteractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iteminteractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\doorinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\doorinteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\camerainteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerainteract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\door.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\iwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iwatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\playerrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerrotate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|C:\\Repositories\\fnaf game\\assets\\scripts\\iteminteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E931DCD-6244-3439-5BBF-4D7ECD0FEE9B}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iteminteractable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Door.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\Door.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Door.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\Door.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Door.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T11:57:35.884Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWatch.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\IWatch.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IWatch.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\IWatch.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IWatch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T16:34:02.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraInteract.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\CameraInteract.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraInteract.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\CameraInteract.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraInteract.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T15:39:30.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DoorInteractable.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\DoorInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DoorInteractable.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\DoorInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DoorInteractable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:15:28.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemInteractController.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\ItemInteractController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemInteractController.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\ItemInteractController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemInteractController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowD8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:33:24.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ItemInteractable.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\ItemInteractable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemInteractable.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\ItemInteractable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemInteractable.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T10:33:03.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "View.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\View.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\View.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\View.cs",
+              "RelativeToolTip": "Assets\\Scripts\\View.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T16:53:58.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\Item.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Item.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\Item.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T15:31:20.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlayerRotate.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\PlayerRotate.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerRotate.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\PlayerRotate.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerRotate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:29:35.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Repositories\\fnaf game\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:09:43.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
